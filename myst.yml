@@ -1,0 +1,14 @@
+version: 1
+project:
+  title: 量潮兵旗推演宣传册
+  description: 量潮兵旗推演宣传册 - 对外介绍的口径与素材
+  keywords: [量潮, 兵旗推演, 宣传册]
+  authors:
+    - name: 量潮科技
+  license: CC-BY-4.0
+  toc:
+    - file: index.md
+site:
+  template: book-theme
+  options:
+    folders: true
